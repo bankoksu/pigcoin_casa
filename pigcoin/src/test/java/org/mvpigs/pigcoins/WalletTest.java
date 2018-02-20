@@ -28,7 +28,7 @@ public class WalletTest{
         wallet.setSK(pair.getPrivate());
         wallet.setAddress(pair.getPublic());
 
-        //assertNotNull(wallet.generateKeyPair());
+        //assertNotNull(wallet.generateKeyPair()); no funcionaria ver q no solo de nulo
         assertEquals(pair.getPublic(), wallet.getAddress());
 
     }

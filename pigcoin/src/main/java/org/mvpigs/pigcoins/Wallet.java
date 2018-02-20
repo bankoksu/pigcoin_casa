@@ -8,8 +8,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Wallet {
-    private PublicKey address;
-    private PrivateKey SK;
+    private PublicKey address = null;
+    private PrivateKey SK = null;
     private double totalInput = 0.0d;
     private double totalOutput = 0.0d;
     private double balance = 0.0d;
