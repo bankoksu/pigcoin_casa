@@ -28,7 +28,8 @@ public class WalletTest{
         wallet.setSK(pair.getPrivate());
         wallet.setAddress(pair.getPublic());
 
-        assertNotNull(wallet);
+        //assertNotNull(wallet.generateKeyPair());
         assertEquals(pair.getPublic(), wallet.getAddress());
 
     }
+}

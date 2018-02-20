@@ -8,11 +8,11 @@ para saber que tiene una cuenta y los movimientos q hará
 _____________________________________________
 2da
 ¿quien lo necesita?
-otro usuario
+2 usuarios
 ¿que necesita?
-necesita una wallet
+necesitan una wallet
 ¿para qué lo necesita?
-
+para poder transferirse coins
 _____________________________________________
 3ra
 ¿quien lo necesita?
@@ -20,30 +20,29 @@ usuarios
 ¿que necesita?
 ver sus wallet
 ¿para qué lo necesita?
-para saber que existen
+para saber que existen y tener los registros
 _____________________________________________
 4ta
 ¿quien lo necesita?
 usuario
 ¿que necesita?
-hacer una transferencia
+un "blockchain"(por lo que lei es donde se guardan las información de las transferencias)
 ¿para qué lo necesita?
-para pasar dinero y/o pagar por algo
+para pasar dinero y/o pagar por algo 
 _____________________________________________
 5ta
 ¿quien lo necesita?
 usuario
 ¿que necesita?
-un "blockchain"(por lo que lei es donde se guardan las información de las transferencias)
+un registro en pantalla de los movimientos
 ¿para qué lo necesita?
-para obtener una moneda en particular
+saber balance
 _____________________________________________
 6ta
 ¿quien lo necesita?
 ususario
 ¿que necesita?
-obtener un balance de su dinero
+blockchain para ver todas las transacciones efectuadas
 ¿para qué lo necesita?
-para tener que pasa en su cuenta
-
+saber si gastas mas de lo q tienes
 _____________________________________________
