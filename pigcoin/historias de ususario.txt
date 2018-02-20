@@ -1,0 +1,49 @@
+1ra
+¿quien lo necesita?
+un usuario
+¿que necesita?
+tener una wallet o monedero(como una especie de cuenta de banco)
+¿para qué lo necesita?
+para saber que tiene una cuenta y los movimientos q hará
+_____________________________________________
+2da
+¿quien lo necesita?
+otro usuario
+¿que necesita?
+necesita una wallet
+¿para qué lo necesita?
+
+_____________________________________________
+3ra
+¿quien lo necesita?
+usuarios
+¿que necesita?
+ver sus wallet
+¿para qué lo necesita?
+para saber que existen
+_____________________________________________
+4ta
+¿quien lo necesita?
+usuario
+¿que necesita?
+hacer una transferencia
+¿para qué lo necesita?
+para pasar dinero y/o pagar por algo
+_____________________________________________
+5ta
+¿quien lo necesita?
+usuario
+¿que necesita?
+un "blockchain"(por lo que lei es donde se guardan las información de las transferencias)
+¿para qué lo necesita?
+para obtener una moneda en particular
+_____________________________________________
+6ta
+¿quien lo necesita?
+ususario
+¿que necesita?
+obtener un balance de su dinero
+¿para qué lo necesita?
+para tener que pasa en su cuenta
+
+_____________________________________________
